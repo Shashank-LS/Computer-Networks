@@ -25,9 +25,6 @@
 
 2. **Download ZIP:**
    - Click on the "Code" button and select "Download ZIP."
-
-   ![Download ZIP](https://i.imgur.com/cUQ8O7X.png)
-
    - Extract the downloaded ZIP file to your desired directory.
 
 ### Open Project in IntelliJ IDEA:
